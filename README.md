@@ -1,1 +1,3 @@
-# Desafio-2-CssAvanzado
+# CSS AVANZADO
+
+Desafio 2 uso de grid
